@@ -1,32 +1,29 @@
-# Meu Hello World em Java
+# Estudos em Java 🖥️☕
+Este repositório contém exercícios, projetos e anotações dos meus estudos em Java. Aqui você encontrará práticas realizadas durante o curso, cobrindo desde conceitos básicos até tópicos avançados. O objetivo é consolidar meu aprendizado e compartilhar soluções para diversos problemas de programação.
 
-Este é o meu primeiro projeto em Java, criado como parte do meu processo de aprendizado da linguagem. Neste projeto, eu explorei conceitos básicos como a criação de classes, o uso de `System.out.println` para imprimir mensagens no console, e a implementação de operações matemáticas simples (soma e subtração).
+## Estrutura do Repositório
 
-## Funcionalidades
+- **Hello World**:
+  - `Estudos.java`: Arquivo com exemplos de mensagens no console.
+  - `Main.java`: Arquivo principal do projeto.
+  - `Matematica.java`: Arquivo com operações matemáticas básicas em Java.
+  - `Perfil.java`: Arquivo com mensagem personalizada no console através de uma variável.
+  - `PrimeiraClasse.java`: Exemplo básico sobre a criação de classes em Java.
 
-- Criação de várias classes Java para organizar o código.
-- Utilização do método `System.out.println` para exibir resultados no console.
-- Realização de operações aritméticas básicas:
-  - Soma de dois números.
-  - Subtração de dois números.
+- **Desafios**:
+  Desafios práticos para reforçar o aprendizado:
+  - `PrimeiroDesafio.java`
+  - `SegundoDesafio.java`
+  - `TerceiroDesafio.java`
+  - `QuartoDesafio.java`
+  - `QuintoDesafio.java`
+  - `SextoDesafio.java`
 
-## Estrutura
+- **Dicas e Boas Práticas**:
+  Arquivos com dicas e exemplos úteis:
+  - `FormatacaoStrings.java`: Dicas sobre formatação de strings.
+  - `Operadores.java`: Exemplos e explicações sobre operadores.
+  - `TiposVariaveis.java`: Explicações sobre tipos de variáveis e suas utilizações.
 
-O projeto contém cinco classes principais, cada uma com uma função específica:
-
-1. **Main**: A classe principal que contém o método `main`. Exibe uma mensagem de Hello World.
-2. **PrimeiraClasse**: Exibe uma mensagem simples no console para demonstrar o uso do `System.out.println`.
-3. **Estudos**: Exibe algumas informações relacionadas aos meus estudos em Java.
-4. **Matematica**: Realiza operações aritméticas como soma e subtração.
-5. **Perfil**: Exibe uma mensagem de saudação personalizada, para praticar o uso de variáveis e exibição de dados no console.
-
-## EXEMPLO
-
-Aqui está um exemplo do código da classe `PrimeiraClasse`:
-
-```java
-public class PrimeiraClasse {
-    public static void main(String[] args) {
-        System.out.println("Iniciando Meus Estudos em Java!");
-    }
-}
+## Objetivo
+Este repositório serve como um espaço para documentar minha jornada de aprendizado em Java e compartilhar soluções e dicas que encontrei ao longo do estudo.
